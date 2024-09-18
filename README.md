@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Spooder
-- 👀 I’m interested in Quantum Computing
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: DM on reddit @immaghostbitch
 - 😄 Pronouns: she/her
