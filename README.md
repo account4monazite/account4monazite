@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Spooder
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: DM on reddit @immaghostbitch
+- 👋 Hi, I’m Shriya
+- ✨ I have an exerience in Web & graphic design (specifically Canva)
+- 🌱 Languages: C,python & counting
+- 📫 How to reach me: Let's Connect on Linkedin : https://www.linkedin.com/in/shriya-rane-27236030b/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can finally do a pike!
   
