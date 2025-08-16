@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shriya
-- ✨ I have an exerience in Web & graphic design (specifically Canva)
-- 🌱 Languages: C,python & counting
-- 📫 How to reach me: Let's Connect on Linkedin : https://www.linkedin.com/in/shriya-rane-27236030b/
+- ✨ I have experience in Web & graphic design (specifically Canva)
+- 🌱 Languages: C,python, HTML,css,dart,(learning java) & counting
+- 📫 How to reach me: Let's connect on Linkedin : https://www.linkedin.com/in/shriya-rane-27236030b/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can finally do a pike!
   
